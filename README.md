@@ -8,6 +8,10 @@ My main focus is backend development, particularly building APIs, working with r
 
 ## Technologies
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,sqlite" />
+</p>
+
 - **Languages:** Python, SQL
 - **Backend:** FastAPI, REST APIs, SQLAlchemy, Pydantic
 - **Databases:** PostgreSQL, SQLite
@@ -37,8 +41,14 @@ data analysis, visualisation and working with structured datasets.
 
 ## Contact
 
-- LinkedIn: [Christiaan Cronje](https://www.linkedin.com/in/christiaancronje/)
-- Email: christiaancronje90@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/christiaancronje/">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:christiaancronje90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <!--
 **ChristiaanCronje/ChristiaanCronje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
