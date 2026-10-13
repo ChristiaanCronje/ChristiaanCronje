@@ -28,6 +28,8 @@ RESTful inventory and order management API built with FastAPI and PostgreSQL.
 **Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Alembic,
 Docker, pytest
 
+<img src="images/inventory-api.png" alt="Inventory API Swagger UI" width="350">
+
 [View Project](https://github.com/ChristiaanCronje/inventory-api)
 
 ### Data Analytics Portfolio
@@ -36,6 +38,8 @@ A collection of Python and SQL projects covering data cleaning, exploratory
 data analysis, visualisation and working with structured datasets.
 
 **Technologies:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Tableau, SQLite
+
+![Data Analytics Project](images/data_analytics.png)
 
 [View Project](https://github.com/ChristiaanCronje/data-analytics-portfolio)
 
